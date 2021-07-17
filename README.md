@@ -1,5 +1,6 @@
-# MultiCamDemo
-MultiCam Project with the CamShift Algorithm on the Platform of MultiAgent Control
+# Multi Agent Visual Tracking
+
+based on the **CamShift** visual trackiong and **Image Stitching** algorithms on the platform of MultiAgent Control
 
 ---
 
