@@ -1,6 +1,6 @@
 # Multi Agent Visual Tracking
 
-based on the **CamShift** visual trackiong and **Image Stitching** algorithms on the platform of MultiAgent Control
+based on the **CamShift** visual tracking and **Image Stitching** algorithms on the platform of MultiAgent Control
 
 ---
 
